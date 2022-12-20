@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Academic Support Team"
-permalink: /teaching/2017-fall-teaching
+permalink: /teaching/2017-fall-teaching-1
 venue: "XUST, ECE"
 date: 2017-09-01
 location: "Xi'an, China"
