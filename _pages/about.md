@@ -14,7 +14,7 @@ I am a PhD student in [The Edward S. Rogers Sr. Department of Electrical and Com
 
 
 ## Research Interests 
-My research interests lie in the intersection of information theroy, and machine learning, 
+My research interests lie in the intersection of information theroy, computer vision and machine learning, encompassing both theoretical work and applications. I am open to collaboration, please feel free to concate me at `<My First Name>` `<My Second Name>` dot at mail dot utoronto dot ca.
 
 
 ## Projects
