@@ -11,7 +11,8 @@ redirect_from:
 <!-- The true Linfeng Ye. -->
 
 I am a PhD student in [The Edward S. Rogers Sr. Department of Electrical and Computer Engineering](https://www.ece.utoronto.ca/) at [University of Toronto](https://uwaterloo.ca/), where I am fortunate to be supervised by  Prof. [Konstantinos N. Plataniotis](https://www.ece.utoronto.ca/people/plataniotis-k-n/). Prior to this, I was a menber of [MultiCom Research Group](https://uwaterloo.ca/multicom-research-group/) supervised by Prof. [En-hui Yang](https://uwaterloo.ca/electrical-computer-engineering/profile/ehyang), and part of [The Salon](https://thesalon.github.io/), working with Prof. [Gautam Kamath](http://www.gautamkamath.com/).
-learning. My research interests lie in information theroy, computer vision and machine learning.
+
+My research interests lie in information theroy, computer vision, machine learning.
 ======
 
 
