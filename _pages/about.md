@@ -12,8 +12,18 @@ redirect_from:
 
 I am a PhD student in [The Edward S. Rogers Sr. Department of Electrical and Computer Engineering](https://www.ece.utoronto.ca/) at [University of Toronto](https://uwaterloo.ca/), where I am fortunate to be supervised by  Prof. [Konstantinos N. Plataniotis](https://www.ece.utoronto.ca/people/plataniotis-k-n/). Prior to this, I was a menber of [MultiCom Research Group](https://uwaterloo.ca/multicom-research-group/) supervised by Prof. [En-hui Yang](https://uwaterloo.ca/electrical-computer-engineering/profile/ehyang), and part of [The Salon](https://thesalon.github.io/), working with Prof. [Gautam Kamath](http://www.gautamkamath.com/).
 
-My research interests lie in information theroy, computer vision, machine learning.
+
+## Research Interests 
+My research interests lie in the intersection of information theroy, and machine learning, 
+
+
+## Projects
+
+
+
 ======
+
+
 
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
