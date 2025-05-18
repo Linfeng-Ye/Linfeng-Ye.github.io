@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Linfeng-Ye -叶临峰"
+title                    : "Linfeng-Ye - 叶临峰"
 title_separator          : "-"
 name                     : &name "Linfeng-Ye"
 description              : &description "personal description"
