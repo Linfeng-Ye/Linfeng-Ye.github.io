@@ -12,7 +12,10 @@ redirect_from:
 
 I am a PhD student in [The Edward S. Rogers Sr. Department of Electrical and Computer Engineering](https://www.ece.utoronto.ca/) at [University of Toronto](https://uwaterloo.ca/), where I am fortunate to be supervised by  Prof. [Konstantinos N. Plataniotis](https://www.ece.utoronto.ca/people/plataniotis-k-n/). Prior to this, I was a menber of [MultiCom Research Group](https://uwaterloo.ca/multicom-research-group/) supervised by Prof. [En-hui Yang](https://uwaterloo.ca/electrical-computer-engineering/profile/ehyang), and part of [The Salon](https://thesalon.github.io/), working with Prof. [Gautam Kamath](http://www.gautamkamath.com/).
 
-I work closely with Prof. [En-hui Yang](https://uwaterloo.ca/electrical-computer-engineering/profile/ehyang); and Prof. [Guang Li](https://www-lmd.ist.hokudai.ac.jp/member/guang-li/).
+During my PhD, I work closely with 
+Prof. [En-hui Yang](https://uwaterloo.ca/electrical-computer-engineering/profile/ehyang) at [UWaterloo](https://uwaterloo.ca); 
+
+Prof. [Guang Li](https://www-lmd.ist.hokudai.ac.jp/member/guang-li/) at [Hokudai](https://www.global.hokudai.ac.jp/).
 
 ## Research Interests 
 My research interests lie in the intersection of information theroy, computer vision and machine learning, encompassing both theoretical work and applications. 
