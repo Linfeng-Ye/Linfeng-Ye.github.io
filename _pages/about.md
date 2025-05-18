@@ -16,7 +16,7 @@ During my PhD, I work closely with
 
 Prof. [En-hui Yang](https://uwaterloo.ca/electrical-computer-engineering/profile/ehyang) at [UWaterloo](https://uwaterloo.ca); 
 
-Prof. [Guang Li](https://www-lmd.ist.hokudai.ac.jp/member/guang-li/) at [Hokudai](https://www.global.hokudai.ac.jp/).
+<!-- Prof. [Guang Li](https://www-lmd.ist.hokudai.ac.jp/member/guang-li/) at [Hokudai](https://www.global.hokudai.ac.jp/). -->
 
 ## Research Interests 
 My research interests lie in the intersection of information theroy, computer vision and machine learning, encompassing both theoretical work and applications. 
