@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "A selfie of me with Geoffrey Hinton, taken on February 9, 2024.<br/><img src='/images/Hinton.jpg'>"
 collection: portfolio
 ---
 
