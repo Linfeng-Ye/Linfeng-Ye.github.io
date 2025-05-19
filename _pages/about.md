@@ -19,7 +19,7 @@ Prof. [En-hui Yang](https://uwaterloo.ca/electrical-computer-engineering/profile
 <!-- Prof. [Guang Li](https://www-lmd.ist.hokudai.ac.jp/member/guang-li/) at [Hokudai](https://www.global.hokudai.ac.jp/). -->
 
 ## Research Interests 
-My research interests lie in the intersection of information theroy, computer vision and machine learning, encompassing both theoretical work and applications. 
+My research interests lie at the intersection of information theory, computer vision, and machine learning, encompassing both theoretical work and applications. 
 
 I am open to collaboration, please feel free to concate me at `<My First Name> dot <My Second Name> at mail dot utoronto dot ca`.
 
